@@ -18,7 +18,7 @@ Eu sou membro da comunidade [PHP com Rapadura](https://phpcomrapadura.org/) e at
 oportunidade de palestrar sobre assuntos que venho executando no trabalho e/ou estudando no meu tempo livre. Sempre tenho procurado falar nessas palestrar sobre 
 boas praticas e infra. 
 
-A ideia de começar a compartlihar conteúdo surgiu numa conversa despretenciosa pela manhã entre Ian, Rafael e eu enquanto iamos ao trabalho.
+A ideia de começar a compartlihar conteúdo surgiu numa conversa despretenciosa pela manhã entre [Ian](https://twitter.com/ianrdgs), [Rafael](https://twitter.com/rtiodev) e eu enquanto iamos ao trabalho.
 O principal objetivo é compartilhar conhecimento e experiência sobre os mais variados assuntos, mas inicialmente eu gostaría de focar numa trilha 
 que pudesse ajudar aquela galera que tá iniciando. Falando nisso [uma vez no grupo da comunidade no Telegram começou uma discussão de passos para quando
 se está começando numa nova linguagem/stack](https://t.me/phpcomrapadura/74396) e o [Pedro Arthur](https://twitter.com/PEdrArthur) deu um ótimo conselho de como normalmente ele faz quando se deparara

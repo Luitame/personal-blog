@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06b9f15c-3bb8-47a0-88c7-765b8b62024b/deploy-status)](https://app.netlify.com/sites/affectionate-noyce-c81452/deploys)
+
 # Jigsaw Blog Starter Template
 
 This is a starter template for creating a beautiful, customizable blog in Jigsaw with minimal effort. You’ll only have to change a few settings and you’re ready to go.
